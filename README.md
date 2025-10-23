@@ -1,68 +1,69 @@
 # 🌩️ AWS Portfolio – by Yashmin
 
-Bienvenida/o a mi **portafolio AWS**, donde estoy construyendo y documentando 4 proyectos prácticos que combinan desarrollo web, automatización, data engineering y visualización de datos usando servicios de Amazon Web Services.  
+Welcome to my **AWS Portfolio**, where I’m building and documenting four practical projects that combine web development, automation, data engineering, and data visualization using Amazon Web Services.  
 
-Este repo muestra mi evolución técnica mientras aplico lo aprendido en cursos y certificaciones de AWS ☁️  
+This repository showcases my technical growth as I apply what I learn through AWS courses and certifications ☁️  
 
 ---
 
-## ⚙️ Roadmap de proyectos
+## ⚙️ Project Roadmap
 
-| N° | Proyecto | Enfoque | Servicios AWS | Estado |
+| # | Project | Focus | AWS Services | Status |
 |:--:|:--|:--|:--|:--:|
-| 1️⃣ | **File Uploader Web App** | Serverless / Web App | S3, Lambda, API Gateway, IAM | 🚧 En progreso |
-| 2️⃣ | **Log Monitor Bot** | Automatización / Alertas | CloudWatch, SNS, EventBridge, Lambda | 🔒 Pendiente |
-| 3️⃣ | **Mini ETL Pipeline** | Data Engineering | Glue, Step Functions, S3, DynamoDB | 🔒 Pendiente |
-| 4️⃣ | **AWS Data Dashboard** | Visualización / BI | QuickSight, RDS, S3 | 🔒 Pendiente |
+| 1️⃣ | **File Uploader Web App** | Serverless / Web App | S3, Lambda, API Gateway, IAM | 🚧 In Progress |
+| 2️⃣ | **Log Monitor Bot** | Automation / Alerts | CloudWatch, SNS, EventBridge, Lambda | 🔒 Pending |
+| 3️⃣ | **Mini ETL Pipeline** | Data Engineering | Glue, Step Functions, S3, DynamoDB | 🔒 Pending |
+| 4️⃣ | **AWS Data Dashboard** | Visualization / BI | QuickSight, RDS, S3 | 🔒 Pending |
 
 ---
 
-## 🧠 Objetivo del portafolio
+## 🧠 Portfolio Goal
 
-> Aprender y demostrar el uso de servicios AWS de forma progresiva:
+> Learn and demonstrate AWS services step by step:
 >
-> 1️⃣ Fundamentos y Serverless  
-> 2️⃣ Automatización y Monitoreo  
+> 1️⃣ Fundamentals & Serverless  
+> 2️⃣ Automation & Monitoring  
 > 3️⃣ Data Engineering (ETL)  
-> 4️⃣ Visualización de datos
+> 4️⃣ Data Visualization  
 
-Cada proyecto incluye:
-- Código fuente (cuando esté disponible)
-- Arquitectura del sistema
-- Explicación técnica (README individual)
-- Capturas o GIFs del resultado final
+Each project includes:
+- Source code (once available)  
+- System architecture diagram  
+- Technical explanation (individual README)  
+- Screenshots or GIFs of the final result  
 
 ---
 
-## 📚 En paralelo estoy estudiando
+## 📚 Currently Learning
 
 - **AWS Cloud Practitioner Essentials** (AWS Skill Builder)  
 - **Serverless Applications with AWS Lambda**  
 - **Data Analytics Fundamentals**  
-- **Amazon QuickSight for Beginners**  
+- **Amazon QuickSight for Beginners**
 
 ---
 
-## 🚀 Próximos pasos
+## 🚀 Next Steps
 
-- [ ] Terminar File Uploader Web App  
-- [ ] Documentar arquitectura y flujo  
-- [ ] Conectar Log Monitor Bot a Telegram  
-- [ ] Construir pipeline ETL con Glue  
-- [ ] Crear dashboard en QuickSight  
-
----
-
-## 💫 Sobre mí
-
-👋 Soy **Yashmin**, desarrolladora con interés en soluciones **cloud, automatización y visualización de datos**.  
-Este portafolio representa mi proceso de aprendizaje práctico dentro del ecosistema AWS.
-
-🌻 *Aprendiendo, creando y compartiendo paso a paso.*  
+- [ ] Finish File Uploader Web App  
+- [ ] Document architecture & flow  
+- [ ] Connect Log Monitor Bot to Telegram  
+- [ ] Build ETL pipeline with AWS Glue  
+- [ ] Create dashboard using Amazon QuickSight  
 
 ---
 
-### 💎 Contacto
+## 💫 About Me
+
+👋 Hi! I’m **Yashmin**, a developer passionate about **cloud computing, automation, and data visualization**.  
+This portfolio represents my hands-on learning journey within the AWS ecosystem.
+
+🌻 *Learning, creating, and improving one project at a time.*
+
+---
+
+### 💎 Contact
+
 **Email:** yashmin.dev@example.com  
 **LinkedIn:** [linkedin.com/in/yashmin-dev](https://linkedin.com/in/yashmin-dev)  
-**Portafolio (en desarrollo):** yashmin-awsprojects.vercel.app
+**Portfolio (in progress):** yashmin-awsprojects.vercel.app
