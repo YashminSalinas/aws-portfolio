@@ -64,6 +64,6 @@ This portfolio represents my hands-on learning journey within the AWS ecosystem.
 
 ### 💎 Contact
 
-**Email:** yashmin.dev@example.com  
-**LinkedIn:** [linkedin.com/in/yashmin-dev](https://linkedin.com/in/yashmin-dev)  
+**Email:** ysalinas.net@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/ysalinasr](https://www.linkedin.com/in/ysalinasr)  
 **Portfolio (in progress):** yashmin-awsprojects.vercel.app
